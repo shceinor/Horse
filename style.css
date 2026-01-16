@@ -1,0 +1,10 @@
+img {
+    width: 5in;
+    border: 1em ridge gold;
+}
+
+p{
+    font-size: 5em;
+    color: gold;
+    font-family: "Times New Roman";
+}
